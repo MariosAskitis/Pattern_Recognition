@@ -1,1 +1,1 @@
-Pattern_Recognition_Project
+Pattern Recognition Project
